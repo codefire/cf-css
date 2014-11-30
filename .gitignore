@@ -1,0 +1,8 @@
+# Sass template
+.sass-cache
+*.css.map
+# phpstorm
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+node_modules
