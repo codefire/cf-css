@@ -1,9 +1,16 @@
-@import '../../bower_components/normalize.scss/normalize.scss';
+//@import '../../bower_components/normalize.scss/normalize.scss';
 
-.cf{
-  .test{
-    font-size: 100px;
-    color: blue;
-    text-align: left;
-  }
+.orange {
+  background-color: #FF7400;
+  height: 100px;
+}
+
+.yellow {
+  background-color: #FFAA00;
+  height: 100px;
+}
+
+.red {
+  background-color: #FF0000;
+  height: 100px;
 }

@@ -1,7 +1,16 @@
-/* line 2, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
-.cf .test {
-  font-size: 100px;
-  color: blue;
-  text-align: left; }
+/* line 3, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
+.orange {
+  background-color: #FF7400;
+  height: 100px; }
+
+/* line 8, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
+.yellow {
+  background-color: #FFAA00;
+  height: 100px; }
+
+/* line 13, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
+.red {
+  background-color: #FF0000;
+  height: 100px; }
 
 /*# sourceMappingURL=code-fire.css.map */
