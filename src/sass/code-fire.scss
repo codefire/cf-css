@@ -1,17 +1,19 @@
 @import '../../bower_components/foundation/scss/normalize.scss';
 @import '../../bower_components/foundation/scss/foundation.scss';
+@import 'cf-global.scss';
+@import 'fonts.scss';
 
 .orange {
-  background-color: #FF7400;
-  height: 100px;
+  background-color: $cf-orange;
+  height: 10px;
 }
 
 .yellow {
-  background-color: #FFAA00;
-  height: 100px;
+  background-color: $cf-yellow;
+  height: 10px;
 }
 
 .red {
-  background-color: #FF0000;
-  height: 100px;
+  background-color: $cf-red;
+  height: 10px;
 }

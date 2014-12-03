@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,100);
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -7720,19 +7721,25 @@ th.hide-for-touch {
     display: table-cell !important; }
  }
 
-/* line 4, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
+/* line 3, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/fonts.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  color: #cccccc; }
+
+/* line 6, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
 .orange {
-  background-color: #FF7400;
-  height: 100px; }
+  background-color: #FCA132;
+  height: 10px; }
 
-/* line 9, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
+/* line 11, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
 .yellow {
-  background-color: #FFAA00;
-  height: 100px; }
+  background-color: #FFCC00;
+  height: 10px; }
 
-/* line 14, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
+/* line 16, /Users/salmaalamnaylor/Sites/codefire/cf-css/src/sass/code-fire.scss */
 .red {
-  background-color: #FF0000;
-  height: 100px; }
+  background-color: #FC5820;
+  height: 10px; }
 
 /*# sourceMappingURL=code-fire.css.map */
