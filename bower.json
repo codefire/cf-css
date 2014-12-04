@@ -1,0 +1,21 @@
+{
+  "name": "cf-css",
+  "version": "0.0.1",
+  "homepage": "https://github.com/codefire/cf-css",
+  "authors": [
+    "samarqhand",
+    "naylorator"
+  ],
+  "description": "Code Fire CSS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.scss": "~3.0.2+normalize.3.0.2"
+  }
+}
