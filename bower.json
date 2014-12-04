@@ -7,12 +7,14 @@
     "naylorator"
   ],
   "description": "Code Fire CSS",
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#~5.4.7"
+  }
 }
